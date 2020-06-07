@@ -16,13 +16,6 @@ management:
       enabled: true
     prometheus:
       enabled: true
-
-spring:
-  cloud:
-    config:
-      enabled: false
-
----
 spring:
   profiles: cloud
 
