@@ -1,6 +1,7 @@
 cf:
   butlers:
-    pcfone: cf-butler-chipper-hyrax.apps.pcfone.io
+#     pcfone: cf-butler-chipper-hyrax.apps.pcfone.io
+    pcfone: gateway-0c616a55-df28-47ad-8b13-be3531f451fb.apps.pcfone.io/cf-butler
     #ironleg: cf-butler.apps.demo.ironleg.me
   sslValidationSkipped: true
 
